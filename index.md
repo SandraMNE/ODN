@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Analogije u naucenim reprezentacijama (tekst)
+# <a name="Tekst"></a> Analogije u naucenim reprezentacijama (tekst)
 
 [Word analogies (GloVE based)](https://lamyiowce.github.io/word2viz/)
 
@@ -10,13 +10,13 @@ layout: default
 
 ## Telco reprezentacije
 
-[Telco reprezentacije (language related)](https://sandramne.github.io/TelcoReps/)
+<a name="TelcoLang"></a> [Telco reprezentacije (language related)](https://sandramne.github.io/TelcoReps/)
 
-[Telco reprezentacije (churn related)](https://github.com/SandraMNE/ODN/blob/master/churn-tsne-SG32-nw10-wl10.png)
+<a name="TelcoChurn"></a> [Telco reprezentacije (churn related)](https://github.com/SandraMNE/ODN/blob/master/churn-tsne-SG32-nw10-wl10.png)
 
 ## Reprezentacije na drugim dataset-ovima
 
-Citation dataset (GAT based)
+<a name="Cora"></a> Citation dataset (GAT based)
 
 Informacije o datasetu: sadrzi informaciju o citiranjima u naucnim publikacijama (A citira B i sl.); ukupan broj citata 5429; ukupan broj publikacija 2708  koje pripadaju 7 razlicitih klasa. 
 
@@ -24,9 +24,9 @@ Informacije o datasetu: sadrzi informaciju o citiranjima u naucnim publikacijama
 
 # Primjene reprezentacija za jos neke "fancy" zadatke
 
-[Face recognition](https://deepai.org/machine-learning-model/facial-recognition)
+<a name="FR"></a> [Face recognition](https://deepai.org/machine-learning-model/facial-recognition)
 
-[Image style transfer](https://deepai.org/machine-learning-model/fast-style-transfer)
+<a name="IST"></a> [Image style transfer](https://deepai.org/machine-learning-model/fast-style-transfer)
 
 <!--
 
