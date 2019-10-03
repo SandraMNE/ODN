@@ -2,21 +2,23 @@
 layout: default
 ---
 
-# Analogije u naucenim reprezentacijama
+# Analogije u naucenim reprezentacijama (tekst)
 
 [Word analogies (GloVE based)](https://lamyiowce.github.io/word2viz/)
 
-# Telco reprezentacije
+# Reprezentacije na grafovima
+
+## Telco reprezentacije
 
 [Telco reprezentacije (language related)](https://sandramne.github.io/TelcoReps/)
 
 [Telco reprezentacije (churn related)](https://github.com/SandraMNE/ODN/blob/master/churn-tsne-SG32-nw10-wl10.png)
 
-# Reprezentacije na drugim dataset-ovima
+## Reprezentacije na drugim dataset-ovima
 
 Citation dataset (GAT based)
 
-[Cora dataset](https://github.com/SandraMNE/ODN/blob/master/Cora-dataset-GAT.jpeg)
+![Cora dataset](https://github.com/SandraMNE/ODN/blob/master/Cora-dataset-GAT.jpeg)
 
 # Primjene reprezentacija za jos neke "fancy" zadatke
 
