@@ -18,6 +18,8 @@ layout: default
 
 Citation dataset (GAT based)
 
+Informacije o datasetu: sadrzi informaciju o citiranjima u naucnim publikacijama (A citira B i sl.); ukupan broj citata 5429; ukupan broj publikacija 2708  koje pripadaju 7 razlicitih klasa. 
+
 [Cora dataset](https://github.com/SandraMNE/ODN/blob/master/Cora-dataset-GAT.jpeg)
 
 # Primjene reprezentacija za jos neke "fancy" zadatke
