@@ -2,21 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 # Analogije u naucenim reprezentacijama
 
-[Word analogies](https://lamyiowce.github.io/word2viz/)
+[Word analogies (GloVE based)](https://lamyiowce.github.io/word2viz/)
 
 # Telco reprezentacije
 
 [Telco reprezentacije (language related)](https://sandramne.github.io/TelcoReps/)
 
-Telco reprezentacije (churn related)
+[Telco reprezentacije (churn related)](https://github.com/SandraMNE/ODN/blob/master/churn-tsne-SG32-nw10-wl10.png)
 
+# Reprezentacije na drugim dataset-ovima
 
+Citation dataset (GAT based)
+
+[Cora dataset](https://github.com/SandraMNE/ODN/blob/master/Cora-dataset-GAT.jpeg)
+
+# Primjene reprezentacija za jos neke "fancy" zadatke
+
+[Face recognition](https://deepai.org/machine-learning-model/facial-recognition)
+
+[Image style transfer](https://deepai.org/machine-learning-model/fast-style-transfer)
 
 <!--
 
