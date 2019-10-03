@@ -18,7 +18,7 @@ layout: default
 
 Citation dataset (GAT based)
 
-![Cora dataset](https://github.com/SandraMNE/ODN/blob/master/Cora-dataset-GAT.jpeg)
+[Cora dataset](https://github.com/SandraMNE/ODN/blob/master/Cora-dataset-GAT.jpeg)
 
 # Primjene reprezentacija za jos neke "fancy" zadatke
 
